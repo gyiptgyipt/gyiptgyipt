@@ -28,7 +28,7 @@
 I am trying to be a roboticist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💻 I’m working as a roboticist(intern in DEEP BLUE AI LAB) and contributing to some robot developing projects.
 
-- 🤖 For now I am trying to deep dive into SLAM courses.
+- 🤖 For now I am trying to deep dive into SLAM and Nav2.
 
 <!-- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
 
