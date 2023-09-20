@@ -28,7 +28,9 @@
 I am trying to be a roboticist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💻 I’m working as a roboticist(intern in DEEP BLUE AI LAB) and contributing to some robot developing projects.
 
-- 🤖 For now I am trying to deep dive into SLAM and Nav2.
+- 🤖 For now I am trying to deep dive into SLAM and Nav2  &&
+
+- ⚙️ creating some projects for tutorials.
 
 <!-- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
 
@@ -52,6 +54,7 @@ I am trying to be a roboticist <img src="https://media.giphy.com/media/WUlplcMpO
   <img src="http://4.bp.blogspot.com/-ym0yrARj9w8/VRo7_CEhY0I/AAAAAAAAWzc/8YR6_7tP12o/s1600/pilogo.gif" title="Raspberry pi" alt="Raspberry pi" width="40" height="40"/>&nbsp;
   <img src="https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://media3.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=6c09b9528c7wc2cf7vi9c198gxdzxndmvt7zcre11zlfhyni&ep=v1_stickers_related&rid=giphy.gif&ct=s" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://tenor.com/view/whale-docker-container-gif-12376852" title="Docker" **alt="Docker" width="40" height="40"/>
 
   <p>https://htet-wai-yan-hwy.github.io/</p>
 </div>
