@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me :
 I am trying to be a roboticist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 💻 I’m working as a roboticist(intern in DEEP BLUE AI LAB) and contributing to some robot developing projects.
+- 💻 I’m a roboticist(developer in DEEP BLUE AI LAB) and contributing to some robot developing projects.
 
 - 🤖 For now I am trying to deep dive into SLAM and Nav2  &&
 
@@ -55,8 +55,9 @@ I am trying to be a roboticist <img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://media3.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=6c09b9528c7wc2cf7vi9c198gxdzxndmvt7zcre11zlfhyni&ep=v1_stickers_related&rid=giphy.gif&ct=s" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dWKrPuMN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.asadodevculture.com/wp-content/uploads/2021/07/docker-loading.gif" title="Docker" **alt="Docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/gulley/Animator/main/code/doc/logo_demo.gif" title="MATLAB" **alt="MATLAB" width="40" height="40"/>
 
-  <p>https://htet-wai-yan-hwy.github.io/</p>
+
 </div>
 
 ---
