@@ -21,7 +21,7 @@ I am trying to be a roboticist <img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.theconstructsim.com/wp-content/uploads/2018/12/ros1_vs_ros2.gif" title="ros1_and_ros2" alt="ros1_and_ros2" width="60" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" title="ROS2" alt="ROS2" width="40" height="40"/>&nbsp;
-  <img src="https://www.deviantart.com/deiby-ybied/art/TUX-Linux-424762616" title="GNU_Linux" alt="GNU_Linux " width="40" height="40"/>&nbsp;
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/072fa096-b852-4161-ae5d-8f42f037c051/d70w4xk-6b74188c-d5a1-44b1-ba16-8b70252e9ad7.png" title="GNU_Linux" alt="GNU_Linux " width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
