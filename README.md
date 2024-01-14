@@ -15,7 +15,7 @@ I am trying to be a roboticist <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Frameworks,Languages and Tools :
 <div>
   <img src="https://fgp.dev/static/media/CDevelopmentImg1.7ef6978c.gif" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" title="Python" alt="Python" width="40" height="40"/>&nbsp;
