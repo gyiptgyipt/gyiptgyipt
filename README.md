@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me :
 I am trying to be a roboticist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 💻 I’m a roboticist(developer in DEEP BLUE AI LAB) and contributing to some robot developing projects.
+- 💻 I’m a roboticist and contributing to some robot developing projects.
 
 - 🤖 For now I am trying to deep dive into SLAM , Nav2 &&
 
