@@ -4,10 +4,10 @@
 ---
 
 ### 👨‍💻 About Me :
-I am trying to be a roboticist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a roboticist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💻 Contributing some projects.
 
-- 🤖 For now I am trying to deep dive into SLAM , Nav2 &&
+- 🤖 For now I am  deep diving into SLAM , Nav2 &&
 
 - ⚙️ creating some projects for tutorials.
 
