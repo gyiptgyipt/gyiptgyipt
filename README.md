@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <!--img src="https://images6.fanpop.com/image/photos/37100000/Hiro-Hamada-The-Robotics-Prodigy-big-hero-6-37125099-245-150.gif" width="600" height="300"/>
 
----
+  ---
 
 ### 👨‍💻 About Me :
 I am a roboticist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
@@ -12,6 +11,7 @@ I am a roboticist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 - ⚙️ creating some projects for tutorials.
 
 <!-- - :mailbox:How to reach me: [![link_in link](your-linkedin-url) -->
+
 
 ---
 
