@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://images6.fanpop.com/image/photos/37100000/Hiro-Hamada-The-Robotics-Prodigy-big-hero-6-37125099-245-150.gif" width="600" height="300"/>
+  <!--img src="https://images6.fanpop.com/image/photos/37100000/Hiro-Hamada-The-Robotics-Prodigy-big-hero-6-37125099-245-150.gif" width="600" height="300"/>
 
 ---
 
